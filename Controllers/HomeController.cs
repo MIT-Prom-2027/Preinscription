@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Preinscription.Models;
+using preinscription.Models;
 
-namespace Preinscription.Controllers;
+namespace preinscription.Controllers;
 
 public class HomeController : Controller
 {

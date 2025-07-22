@@ -1,4 +1,4 @@
-namespace Preinscription.Models;
+namespace preinscription.Models;
 
 public class ErrorViewModel
 {
